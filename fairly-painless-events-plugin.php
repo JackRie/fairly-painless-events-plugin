@@ -1,16 +1,15 @@
 <?php 
 /**
  * Plugin Name:       Fairly Painless Events Plugin
- * Plugin URI:        https://example.com/plugins/the-basics/
- * Description:       An Uncomplicated Event Plugin.
+ * Plugin URI:        https://github.com/JackRie/fairly-painless-events-plugin
+ * Description:       An uncomplicated events plugin.
  * Version:           1.0.0
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Jackie Riemersma
- * Author URI:        https://author.example.com/
+ * Author URI:        https://github.com/JackRie/fairly-painless-events-plugin
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Update URI:        https://example.com/my-plugin/
  * Text Domain:       fpep
  */
 
